@@ -114,11 +114,11 @@ import { Row, Col , Navbar, NavItem, NavbarBrand, Button } from 'reactstrap';
 			</Col>
 
 			<Col md={12}>
-				<p className="label-white-standard"> art director </p>
+				<p className="label-light-pink-block"> art director </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-white-standard-small"> sabina phillips 0 jack blair </p>
+				<p className="label-block-white-small"> sabina phillips 0 jack blair </p>
 			</Col>
 
 			<Col md={12}>
@@ -141,7 +141,7 @@ import { Row, Col , Navbar, NavItem, NavbarBrand, Button } from 'reactstrap';
 				<img className="img-fluid" alt="Responsive image" src='http://path.to/replace/image' /> 
 
 			</Col>			<Col md={12}>
-				<p className="label-light-green-dark-green-small"> a </p>
+				<p className="label-turquoise-very-light-green-small"> a </p>
 			</Col>
 
 			<Col md={12}>
@@ -153,11 +153,11 @@ import { Row, Col , Navbar, NavItem, NavbarBrand, Button } from 'reactstrap';
 			</Col>
 
 			<Col md={12}>
-				<p className="label-green-light-green-small"> 0 </p>
+				<p className="label-dark-green-dark-green-small"> 0 </p>
 			</Col>
 
 			<Col md={12}>
-				<p className="label-white-standard-small"> editor illustrator </p>
+				<p className="label-light-pink-gray-small"> editor illustrator </p>
 			</Col>
 
 			<Col md={12}>
